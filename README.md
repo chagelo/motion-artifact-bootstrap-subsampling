@@ -1,1 +1,0 @@
-# motion-artifact-bootstrap-subsampling
